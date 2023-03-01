@@ -11,7 +11,7 @@ document.write('    <script src="./js/polyfills.js"></script>');
 document.write('    <script src="./js/main.js"></script> </head>');
 document.write('');
 document.write('<body>');
-document.write('    <div id="sidenav" style="display: none;">');
+document.write('    <div id="sidenav" style="display: none; padding-top: 25px;">');
 document.write('        <button id="sidenavBtn">&#9776;</button>');
 document.write('        <img id="profilePic" alt="An avatar that aims to represent the website owner" src="./img/avatar.png">');
 document.write('    </div>');
