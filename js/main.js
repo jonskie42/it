@@ -13,8 +13,8 @@ var configs = (function () {
     };
     Singleton.defaultOptions = {
         general_help: "\nBerikut perintah yang dapat membantu anda dibawah ini",
-        ls_help: "Berikut ini bantuan yang tersedia untuk anda",
-        cat_help: "Read FILE(s) content and print it to the standard output (screen).",
+        ls_help: "Berikut ini list informasi yang dapat kami berikan",
+        cat_help: "Membaca file dan menampilkan kedalam tampilan standar",
         whoami_help: "Print the user name associated with the current effective user ID and more info.",
         date_help: "Print the system date and time.",
         help_help: "Print this menu.",
